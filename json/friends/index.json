@@ -1,0 +1,12 @@
+{
+  "name": "Friends",
+  "version": "0.1.0",
+  "data": [
+      {
+          "name": "泰拉瑞亚中文论坛",
+          "link": "https://bbstr.net",
+          "icon": "https://cdn.h-o-l-a.cn/avatar/bbstr.net.jpg",
+          "desc": "国内知名的泰拉瑞亚玩家交流平台"
+      }
+  ]
+}
