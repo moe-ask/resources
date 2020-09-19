@@ -49,3 +49,10 @@
 **Arknights (/src/asstes/cover/84404322.png)**
 > 出处：https://www.pixiv.net/artworks/84404322<br>
 画师主页：https://www.pixiv.net/users/10489689
+
+
+---
+
+**夏の青 (/src/asstes/cover/84253409.png)**
+> 出处：https://www.pixiv.net/artworks/84253409<br>
+画师主页：https://www.pixiv.net/users/2557134
