@@ -16,3 +16,15 @@
 **1時間ドロ―イングまとめ (/src/asstes/cover/75509590.png)**
 > 出处：https://www.pixiv.net/artworks/75509590<br>
 画师主页：https://www.pixiv.net/users/488766
+
+---
+
+**囧仙子 (/src/asstes/cover/69405503.png)**
+> 出处：https://www.pixiv.net/artworks/69405503<br>
+画师主页：https://www.pixiv.net/users/6049901
+
+---
+
+**EYJAFJALLA (/src/asstes/cover/74893064.png)**
+> 出处：https://www.pixiv.net/artworks/74893064<br>
+画师主页：https://www.pixiv.net/users/6900078
