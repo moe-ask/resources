@@ -35,3 +35,17 @@
 **無題 (/src/asstes/cover/83590184.png)**
 > 出处：https://www.pixiv.net/artworks/83590184<br>
 画师主页：https://www.pixiv.net/users/7121031
+
+
+---
+
+**夕陽を背に (/src/asstes/cover/70336750.png)**
+> 出处：https://www.pixiv.net/artworks/70336750<br>
+画师主页：https://www.pixiv.net/users/488766
+
+
+---
+
+**Arknights (/src/asstes/cover/84404322.png)**
+> 出处：https://www.pixiv.net/artworks/84404322<br>
+画师主页：https://www.pixiv.net/users/10489689
