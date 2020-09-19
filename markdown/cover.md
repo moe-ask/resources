@@ -68,6 +68,5 @@
 ---
 
 **無題 (/src/asstes/cover/yousa-bili.png)**
-> 出处：Bilibili #泠鸢同人#
-画师主页：暂时未知
-提示：这张图只知道出自哔哩哔哩 #泠鸢同人# TAG下，但暂未找到具体出处（如有知晓请 pr 提交）
+> 出处：https://t.bilibili.com/427714683251264327
+画师主页：https://space.bilibili.com/12548623/
