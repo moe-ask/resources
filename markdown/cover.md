@@ -56,3 +56,10 @@
 **夏の青 (/src/asstes/cover/84253409.png)**
 > 出处：https://www.pixiv.net/artworks/84253409<br>
 画师主页：https://www.pixiv.net/users/2557134
+
+
+---
+
+**于原野上 (/src/asstes/cover/84285716.png)**
+> 出处：https://www.pixiv.net/artworks/84285716<br>
+画师主页：https://www.pixiv.net/users/10489689
