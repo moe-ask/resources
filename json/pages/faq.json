@@ -1,0 +1,21 @@
+{
+  "name": "Frequently-Asked-Questions-Page",
+  "version": "0.1.1",
+  "data": [
+    {
+      "title": "为何向他人提问需要登录？",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "被提问者能看见是谁提问的吗？",
+      "type": "text",
+      "content": ""
+    },
+    {
+      "title": "我提问的问题能被其他人看见吗？",
+      "type": "text",
+      "content": ""
+    }
+  ]
+}
