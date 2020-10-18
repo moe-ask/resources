@@ -2,11 +2,17 @@
   "name": "Friends",
   "version": "0.1.0",
   "data": [
-      {
-          "name": "泰拉瑞亚中文论坛",
-          "link": "https://bbstr.net",
-          "icon": "https://static.bbstr.net/images/logo/bbstr_square.png",
-          "desc": "国内知名的泰拉瑞亚玩家交流平台"
-      }
+    {
+      "name": "泰拉瑞亚中文论坛",
+      "link": "https://bbstr.net",
+      "icon": "https://static.bbstr.net/images/logo/bbstr_square.png",
+      "desc": "国内知名的泰拉瑞亚玩家交流平台"
+    },
+    {
+      "name": "BoxCat",
+      "link": "https://boxcat.org",
+      "icon": "https://boxcat.org/favicon.ico",
+      "desc": "一群鸽子的猫窝 (╯▽╰ )"
+    }
   ]
 }
